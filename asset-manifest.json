@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ToDo-React.git/static/css/main.e7e9648c.css",
-    "main.js": "/ToDo-React.git/static/js/main.a987832b.js",
-    "static/js/787.336a5b3e.chunk.js": "/ToDo-React.git/static/js/787.336a5b3e.chunk.js",
-    "index.html": "/ToDo-React.git/index.html",
-    "main.e7e9648c.css.map": "/ToDo-React.git/static/css/main.e7e9648c.css.map",
-    "main.a987832b.js.map": "/ToDo-React.git/static/js/main.a987832b.js.map",
-    "787.336a5b3e.chunk.js.map": "/ToDo-React.git/static/js/787.336a5b3e.chunk.js.map"
+    "main.css": "/ToDo-React/static/css/main.e7e9648c.css",
+    "main.js": "/ToDo-React/static/js/main.5543b718.js",
+    "static/js/787.336a5b3e.chunk.js": "/ToDo-React/static/js/787.336a5b3e.chunk.js",
+    "index.html": "/ToDo-React/index.html",
+    "main.e7e9648c.css.map": "/ToDo-React/static/css/main.e7e9648c.css.map",
+    "main.5543b718.js.map": "/ToDo-React/static/js/main.5543b718.js.map",
+    "787.336a5b3e.chunk.js.map": "/ToDo-React/static/js/787.336a5b3e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7e9648c.css",
-    "static/js/main.a987832b.js"
+    "static/js/main.5543b718.js"
   ]
 }
